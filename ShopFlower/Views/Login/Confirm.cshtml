@@ -1,0 +1,21 @@
+﻿@* @{
+	ViewBag.Title = "Confirm";
+    
+}
+@model RegistrConfirm;
+
+<form asp-action="Confirm" asp-controller="Login" method="post" class="form form_sign_up">
+
+        <p style="margin: 0 0 0 10px">@Model.Registr.Message</p>
+
+    <p>
+
+        <label id="sign_up_password">Code:</label>
+        <span class="text-danger" asp-validation-for="@Model.Registr.ConfirmCode"></span>
+        <input type="text" class="input" asp-for="@Model.Registr.ConfirmCode">
+    </p>
+    <div class="login_submit">
+        <button type="submit" id="clear-button">Register</button>
+    </div>
+
+</form> *@

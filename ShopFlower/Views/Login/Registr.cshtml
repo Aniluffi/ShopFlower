@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Confirm";
+    Layout = "~/Views/Shared/_LayoutNuul.cshtml";
+}
+@model RegistrConfirm;
+<div class="confirm_form">
+    <form asp-action="Confirm" asp-controller="Login" method="post" class="form form_sign_up">
+
+        <p style="margin: 0 0 0 10px" class="form_message">@Model.Registr.Message</p>
+        <input type="hidden" asp-for="Registr.Email" />
+        <input type="hidden" asp-for="Registr.Login" />
+        <input type="hidden" asp-for="Registr.Password" />
+        <input type="hidden" asp-for="Registr.ConfirmPassword" />
+        <input type="hidden" asp-for="@Model.ConfirmCode" />
+        <p>
+
+            <label id="sign_up_password">Code:</label>
+            <span class="text-danger" asp-validation-for="@Model.Registr.ConfirmCode"></span>
+            <input type="text" class="input" asp-for="@Model.Registr.ConfirmCode">
+        </p>
+        <button type="submit" id="clear-button" class="confirm_submit">Confirm</button>
+        <button class="cancel_submit"><a href="/login/index"> Cancel registration</a></button>
+    </form>
+</div>

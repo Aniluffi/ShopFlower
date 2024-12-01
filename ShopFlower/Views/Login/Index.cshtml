@@ -1,0 +1,151 @@
+﻿@{
+
+    ViewBag.Title = "Login";
+
+}
+@model LoginRegistrView
+
+
+<!--breadcrumbs area start-->
+<div class="breadcrumbs_area" style="padding: 100px 0px">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb_content">
+                    <h3>My Account</h3>
+                    <ul>
+                        <li><a href="index.html">home</a></li>
+                        <li>My account</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs area end-->
+<!-- customer login start -->
+<div class="customer_login">
+    <div class="container">
+        <div class="row">
+            <!--login area start-->
+            <div class="col-lg-6 col-md-6">
+                <div class="account_form">
+                    <h2>login</h2>
+                    <form asp-action="Login" asp-controller="Login" class="form form_sign_in">
+                        @if (Model?.login?.error != null && Model.login.error.Any())
+                        {
+                            @foreach (var error in Model.login.error)
+                            {
+                                <p class="text-danger" style="margin: 0 0 0 10px">@error.Message</p>
+                            }
+                        }
+                        <p class ="login_sign_in">
+                            <label >Login<span>*</span></label>
+                            <span class="alert-danger" asp-validation-for="login.Email"></span>
+                            <input type="text" placeholder=" " asp-for="login.Email">
+                        </p>
+                        <p class ="password_sign_in">
+                            <label >Passwords <span>*</span></label>
+                            <span class="text-danger" asp-validation-for="login.Password"></span>
+                            <input type="password" placeholder=" " asp-for="login.Password">
+                        </p>
+                        <div class="login_submit">
+
+                            <button class="google google-btn">
+                                <img class="img_google_btn" src="~/img/R.png" alt="Google Icon">
+                                Sign in with Google
+                            </button>
+                            <button type="submit"  class="login_btn">login</button>
+                          
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!--login area start-->
+            <!--register area start-->
+            <div class="col-lg-6 col-md-6">
+                <div class="account_form register">
+                    <h2>Register</h2>
+                    <form asp-action="Registr" asp-controller="Login" method="post" class="form form_sign_up">
+                        @if (Model?.registr?.error != null && Model.registr.error.Any())
+                        {
+                                @foreach (var error in Model.registr.error)
+                                {
+                                    <p class="text-danger" style="margin: 0 0 0 10px">@error.Message</p>
+                                }
+                        }
+                        @if (Model?.registr?.error == null && Model?.registr?.Message != null)
+                        {
+                            <p style="margin: 0 0 0 10px">@Model.registr.Message</p>
+                        }
+                        <p style="margin-top: 10px">
+
+                            <label id="sign_up_login">Login<span>*</span></label>
+                            <span class="text-danger" asp-validation-for="registr.Login"></span>
+                            <input type="text" class="input" asp-for="registr.Login">
+                        </p>
+                        <p>
+
+                            <label id="sign_up_email">Email address <span>*</span></label>
+                            <span class="text-danger" asp-validation-for="@Model.registr.Email"></span>
+                            <input type="email" class="input" asp-for="@Model.registr.Email">
+                        </p>
+                        <p>
+
+                            <label id="sign_up_password">Password<span>*</span></label>
+                            <span class="text-danger" asp-validation-for="@Model.registr.Password"></span>
+                            <input type="password" class="input" asp-for="@Model.registr.Password">
+                        </p>
+                        <p>
+
+                            <label id="sign_up_confirm_password">Passwords Confirm<span>*</span></label>
+                            <span class="text_danger" asp-validation-for="@Model.registr.ConfirmPassword"></span>
+                            <input type="password" class="input" asp-for="@Model.registr.ConfirmPassword">
+                        </p>
+                      
+
+                        <div class="login_submit">
+                            <button type="submit" id="clear-button">Register</button>
+                        </div>
+                    
+                    </form>
+                </div>
+            </div>
+            <!--register area end-->
+        </div>
+    </div>
+</div>
+<!-- customer login end -->
+<!--brand area start-->
+<div class="brand_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="brand_container owl-carousel">
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand1.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand2.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand3.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand4.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand5.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand6.png" alt=""></a>
+                    </div>
+                    <div class="single_brand">
+                        <a href="#"><img src="~/img/brand/brand2.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--brand area end-->

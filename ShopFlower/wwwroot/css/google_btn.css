@@ -1,0 +1,46 @@
+﻿/* Основной стиль для кнопки */
+.google-btn {
+    display: flex; /* Flexbox для центрирования содержимого */
+    align-items: center; /* Выравнивание по вертикали */
+    justify-content: center; /* Центровка текста и иконки */
+    background-color: #4285F4; /* Синий фирменный цвет Google */
+    color: white; /* Белый текст */
+    padding: 10px 20px; /* Отступы внутри кнопки */
+    border: none; /* Убираем границы */
+    border-radius: 5px; /* Закругленные углы */
+    font-size: 16px; /* Размер шрифта */
+    font-weight: bold; /* Жирный текст */
+    cursor: pointer; /* Указатель при наведении */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Легкая тень */
+    transition: background-color 0.3s, box-shadow 0.3s; /* Анимация при наведении */
+    text-decoration: none; /* Убираем подчеркивание для ссылок */
+    margin-bottom: 10px;
+}
+
+    /* Иконка Google */
+    .google-btn img {
+        width: 20px; /* Размер иконки */
+        height: 20px;
+        margin-right: 10px; /* Отступ между иконкой и текстом */
+    }
+
+    /* Эффект наведения */
+    .google-btn:hover {
+        background-color: #357AE8; /* Темнее наводка */
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Более выраженная тень */
+    }
+
+/* Версия кнопки для маленьких экранов */
+@media (max-width: 480px) {
+    .google-btn {
+        font-size: 14px; /* Уменьшаем текст */
+        padding: 8px 15px; /* Уменьшаем отступы */
+        margin-bottom: 10px;
+    }
+
+        .google-btn img {
+            width: 18px; /* Уменьшаем иконку */
+            height: 18px;
+            margin-right: 8px;
+        }
+}

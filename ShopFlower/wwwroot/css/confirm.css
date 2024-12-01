@@ -1,0 +1,104 @@
+﻿.cancel_submit {
+
+}
+
+body {
+    margin: 0;
+    height: 100vh; /* Высота страницы */
+    display: flex; /* Используем Flexbox */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    background-color: #f0f0f0; /* Фон страницы */
+}
+
+.confirm_form {
+    background: #fff; /* Белый фон формы */
+    padding: 20px; /* Внутренние отступы */
+    border-radius: 10px; /* Закругленные углы */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тень для формы */
+    width: 300px; /* Ширина формы */
+}
+
+.input {
+    width: 100%; /* Поля ввода занимают всю ширину */
+    padding: 10px; /* Внутренние отступы */
+    margin-bottom: 10px; /* Отступ между полями */
+    border: 1px solid #ccc; /* Рамка для полей */
+    border-radius: 5px; /* Закругленные углы */
+}
+
+.confirm_submit, .cancel_submit {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.confirm_submit {
+    background-color: #4CAF50; /* Зеленая кнопка */
+    color: white;
+}
+
+.form_message {
+    font-size: 12px; /* Размер текста для сообщения */
+    color: #555; /* Цвет текста */
+    margin-bottom: 15px; /* Отступ от остальных элементов */
+}
+
+.cancel_submit {
+    background-color: #f44336; /* Красная кнопка */
+    color: white;
+    text-decoration: none;
+}
+
+label {
+    display: block; /* Каждый label занимает отдельную строку */
+    font-size: 14px; /* Размер шрифта */
+    font-weight: bold; /* Жирный текст */
+    color: #333; /* Цвет текста */
+    margin-bottom: 5px; /* Отступ снизу */
+}
+
+/* === Адаптивность для маленьких экранов === */
+@media (max-width: 768px) {
+    .confirm_form {
+        padding: 15px; /* Уменьшаем отступы */
+        border-radius: 5px; /* Слегка уменьшаем закругление */
+    }
+
+    label {
+        font-size: 12px; /* Уменьшаем размер текста */
+    }
+
+    .input {
+        padding: 8px; /* Уменьшаем внутренние отступы */
+    }
+
+    .confirm_submit, .cancel_submit {
+        padding: 8px 10px; /* Уменьшаем размеры кнопок */
+    }
+}
+
+/* === Адаптивность для очень маленьких экранов === */
+@media (max-width: 480px) {
+    .confirm_form {
+        max-width: 90%; /* Ширина формы подстраивается под экран */
+    }
+
+    .form_message {
+        font-size: 10px; /* Ещё меньше текст */
+    }
+
+    label {
+        font-size: 10px; /* Ещё меньше текст */
+    }
+
+    .input {
+        padding: 6px; /* Минимальные отступы для полей */
+    }
+
+    .confirm_submit, .cancel_submit {
+        font-size: 12px; /* Размер текста кнопок уменьшается */
+    }
+}
