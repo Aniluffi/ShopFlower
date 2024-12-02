@@ -1,0 +1,54 @@
+# Общие файлы и каталоги, которые должны быть проигнорированы
+*.log                   # Логи
+*.tmp                   # Временные файлы
+*.swp                   # Файлы swap
+.DS_Store               # Для macOS
+Thumbs.db               # Для Windows
+
+# Каталоги для Node.js
+node_modules/           # Зависимости Node.js
+npm-debug.log*          # Лог-файлы npm
+
+# Каталоги для Python
+__pycache__/            # Кэшированные файлы Python
+*.py[cod]               # Кэшированные файлы Python
+*.pyo                    # Оптимизированные файлы Python
+*.pyc                    # Компилированные файлы Python
+
+# Каталоги для Java
+*.class                 # Классы Java
+
+# Каталоги для Java/Android
+*.apk                   # Файлы Android
+
+# Каталоги для JetBrains IDEs
+.idea/                  # Каталог конфигураций IDEA
+*.iml                   # Файлы конфигурации проекта
+
+# Каталоги для Visual Studio Code
+.vscode/                # Конфигурации VS Code
+
+# Каталоги для macOS
+.DS_Store               # Для macOS
+
+# Каталоги для Visual Studio
+.vs/                    # Конфигурации Visual Studio
+.vscode/                # Конфигурации Visual Studio Code
+bin/                    # Каталог для компилированных файлов
+obj/                    # Каталог для объектов
+
+# Каталоги для Android Studio
+/.idea/                 # Каталог Android Studio
+local.properties        # Настройки Android Studio
+.gradle/                # Кэш Gradle
+build/                  # Скомпилированные файлы
+
+# Файлы конфигурации среды
+.env                    # Для хранения конфиденциальных данных
+
+# Резервные копии
+*.bak                   # Резервные копии
+*.orig                  # Резервные файлы
+
+# Файлы с паролями
+*.env                   # Файлы с переменными окружения

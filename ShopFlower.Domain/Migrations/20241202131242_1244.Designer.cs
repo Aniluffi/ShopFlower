@@ -12,8 +12,8 @@ using ShopFlower.Data;
 namespace ShopFlower.Data.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20241201170723_123")]
-    partial class _123
+    [Migration("20241202131242_1244")]
+    partial class _1244
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

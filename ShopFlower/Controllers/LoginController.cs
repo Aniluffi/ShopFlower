@@ -178,7 +178,7 @@ namespace ShopFlower.Controllers
                         Password = user.Password
                     }
                 });
-                return RedirectToAction("Index","Home");
+                return RedirectToAction("Index", "Home");
             }
 
             return View("CreatePassword", new Registr

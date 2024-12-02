@@ -1,170 +1,218 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\models\\registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.service\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|solutionrelative:shopflower.service\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\google_btn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\google_btn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceproduct\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceproduct\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\migrations\\20241201170723_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\migrations\\20241201170723_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.service\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.service\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|solutionrelative:shopflower.service\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\login\\createpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceproduct\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceproduct\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\shopflower.iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\shopflower.iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceorder\\iserviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceorder\\iserviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\servicecart\\iservicecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\servicecart\\iservicecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\servicecart\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\servicecart\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shop\\iconshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shop\\iconshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\myaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\myaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Migrations\\20241202131242_1244.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopFlower.Domain\\Migrations\\20241202131242_1244.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\registr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\google_btn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\google_btn.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\login\\createpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\createpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\login\\registr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\login\\registr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\registr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\login\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\login\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\login\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\serviceuser\\shortuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceuser\\shortuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceuser\\shortuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\serviceuser\\iserviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceuser\\iserviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceuser\\iserviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shared\\_layoutnuul.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shared\\_layoutnuul.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\_layoutnuul.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\models\\loginregistrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\loginregistrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\loginregistrview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\myaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\myaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kab-31-15\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\js\\login_and_registration_script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\shopflower.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\shopflower.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\shopflower.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\models\\registrconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\models\\registrconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\models\\registrconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\shopflower.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\shopflower.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\shopflower.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\myaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\myaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\myaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.service\\shopflower.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.service\\shopflower.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|solutionrelative:shopflower.service\\shopflower.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\ordersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\ordersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\ordersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\wishlistconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\wishlistconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\wishlistconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -174,173 +222,141 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shared\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shared\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\viacheslavn\\AppData\\Local\\SourceServer\\b4690cbe6d8df55121d7f0756377588ce690564427a85cafd093d5dc4fe63079\\ShopFlower\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\font.awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\font.awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\font.awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\xunittestservice\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\xunittestservice\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|solutionrelative:xunittestservice\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\servicecart\\iservicecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\servicecart\\iservicecart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\servicecart\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\servicecart\\shortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\serviceorder\\iserviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceorder\\iserviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\serviceroles\\iserviceroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\serviceroles\\iserviceroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\serviceroles\\iserviceroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\servicewishlist\\iservicewishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\servicewishlist\\iservicewishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\servicewishlist\\iservicewishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\shopflower.iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\shopflower.iservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\xunittestservice\\xunittestservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\xunittestservice\\xunittestservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0A068B9A-4341-4C69-B2DC-861B60943DF7}|XUnitTestService\\XUnitTestService.csproj|solutionrelative:xunittestservice\\xunittestservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\addressesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\addressesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\addressesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.service\\shopflower.service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.service\\shopflower.service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B4FFC345-DFAE-4340-9065-8A1E7210F228}|ShopFlower.Service\\ShopFlower.Service.csproj|solutionrelative:shopflower.service\\shopflower.service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.iservice\\shopflower.iservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.iservice\\shopflower.iservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{DE0B83F3-56F0-4EA0-9316-558B274CB547}|ShopFlower.IService\\ShopFlower.IService.csproj|solutionrelative:shopflower.iservice\\shopflower.iservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\rolesuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\rolesuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\rolesuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\configuration\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\configuration\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\configuration\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\rolesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\rolesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\rolesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower.domain\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower.domain\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F70C9A-AE1E-4E81-8256-C9F9C78C37A5}|ShopFlower.Domain\\ShopFlower.Data.csproj|solutionrelative:shopflower.domain\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\shop\\iconshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\shop\\iconshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\wwwroot\\css\\infstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\wwwroot\\css\\infstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\wwwroot\\css\\infstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\aleks\\desktop\\delivery-of-goods-back-release-8.5.1.0\\shopflower\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|c:\\users\\kab-35-17\\desktop\\shopflower\\shopflower\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B96C78F-DA76-4467-8F56-7F4FFE871C25}|ShopFlower\\ShopFlower.csproj|solutionrelative:shopflower\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -351,7 +367,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -371,11 +387,245 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\ListProduct.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Models\\ListProduct.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\ListProduct.cs",
+              "RelativeToolTip": "ShopFlower\\Models\\ListProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:59:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ServiceProduct.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Service\\ServiceProduct.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ServiceProduct.cs",
+              "RelativeToolTip": "ShopFlower.Service\\ServiceProduct.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:23:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceUser.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ServiceUser.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Service\\ServiceUser.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ServiceUser.cs",
+              "RelativeToolTip": "ShopFlower.Service\\ServiceUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:03:53.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Program.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Program.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Program.cs",
+              "RelativeToolTip": "ShopFlower\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:15:06.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShortProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceProduct\\ShortProduct.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceProduct\\ShortProduct.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceProduct\\ShortProduct.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceProduct\\ShortProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:10:34.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceProduct\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceProduct\\IProductService.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceProduct\\IProductService.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceProduct\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:08:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:17:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwJEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T16:19:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopFlower.IService.csproj",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ShopFlower.IService.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
+              "RelativeToolTip": "ShopFlower.IService\\ShopFlower.IService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T07:33:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:19:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceOrder.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:20:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceCart.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:20:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShortProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:37:04.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\ApplicationContext.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\ApplicationContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:47:41.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:58:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Icon.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Icon.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Models\\Icon.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Icon.cs",
+              "RelativeToolTip": "ShopFlower\\Models\\Icon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:04:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T20:31:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\MyAccount\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\MyAccount\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\MyAccount\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\MyAccount\\Index.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAEsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:29:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "google_btn.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\google_btn.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\google_btn.css",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\google_btn.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\google_btn.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\google_btn.css",
               "RelativeToolTip": "ShopFlower\\wwwroot\\css\\google_btn.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -384,72 +634,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T20:31:27.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "Registr.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Registr.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Registr.cshtml",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Registr.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Registr.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Registr.cshtml",
               "RelativeToolTip": "ShopFlower\\Views\\Login\\Registr.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T13:51:58.698Z"
+              "WhenOpened": "2024-11-20T13:51:58.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAADwv9YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T21:19:45.41Z",
+              "DocumentIndex": 26,
+              "Title": "CreatePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\CreatePassword.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\CreatePassword.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\CreatePassword.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Login\\CreatePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T14:54:30.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "_LayoutNuul.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Title": "IconShop.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shop\\IconShop.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shop\\IconShop.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shop\\IconShop.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Shop\\IconShop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T13:25:00.597Z"
+              "WhenOpened": "2024-11-10T16:34:37.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IServiceUser.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:33:49.955Z"
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopFlower\\appsettings.json",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\appsettings.json",
+              "RelativeToolTip": "ShopFlower\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T15:25:50.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T10:36:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Confirm.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Login\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:36:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Registr.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\Registr.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Registr.cs",
               "RelativeDocumentMoniker": "ShopFlower\\Models\\Registr.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\Registr.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Registr.cs",
               "RelativeToolTip": "ShopFlower\\Models\\Registr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,474 +725,415 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Confirm.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Confirm.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Confirm.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Confirm.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Login\\Confirm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:36:16.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T10:36:19.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreatePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\CreatePassword.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\CreatePassword.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\CreatePassword.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Login\\CreatePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T14:54:30.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\appsettings.json",
-              "RelativeDocumentMoniker": "ShopFlower\\appsettings.json",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\appsettings.json",
-              "RelativeToolTip": "ShopFlower\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T15:25:50.216Z",
+              "DocumentIndex": 31,
+              "Title": "IServiceUser.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceUser\\IServiceUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:33:49.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241201170723_123.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Migrations\\20241201170723_123.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Migrations\\20241201170723_123.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Migrations\\20241201170723_123.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Migrations\\20241201170723_123.cs",
+              "DocumentIndex": 32,
+              "Title": "_LayoutNuul.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Shared\\_LayoutNuul.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:25:00.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241202131242_1244.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Migrations\\20241202131242_1244.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Migrations\\20241202131242_1244.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Migrations\\20241202131242_1244.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Migrations\\20241202131242_1244.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:07:24.48Z"
+              "WhenOpened": "2024-12-02T13:12:42.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceUser.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ServiceUser.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Service\\ServiceUser.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ServiceUser.cs",
-              "RelativeToolTip": "ShopFlower.Service\\ServiceUser.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAtwGIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:03:53.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "ShopFlower\\Views\\Login\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T14:07:37.16Z"
+              "WhenOpened": "2024-11-21T14:07:37.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\MyAccount\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\MyAccount\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\MyAccount\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\MyAccount\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T22:29:08.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "ShortUser.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceUser\\ShortUser.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceUser\\ShortUser.cs",
               "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceUser\\ShortUser.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceUser\\ShortUser.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceUser\\ShortUser.cs",
               "RelativeToolTip": "ShopFlower.IService\\ServiceUser\\ShortUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:41:29.378Z"
+              "WhenOpened": "2024-11-20T09:41:29.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\aleks\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\aleks\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
               "ToolTip": "C:\\Users\\aleks\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\aleks\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-01T11:34:01.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "LoginRegistrView.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\LoginRegistrView.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\LoginRegistrView.cs",
               "RelativeDocumentMoniker": "ShopFlower\\Models\\LoginRegistrView.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\LoginRegistrView.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\LoginRegistrView.cs",
               "RelativeToolTip": "ShopFlower\\Models\\LoginRegistrView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:35:55.827Z"
+              "WhenOpened": "2024-11-21T12:35:55.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ShopFlower\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAdAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:46:27.641Z"
+              "WhenOpened": "2024-11-29T14:46:27.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\Kab-31-15\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Kab-31-15\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
               "ToolTip": "C:\\Users\\Kab-31-15\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
               "RelativeToolTip": "..\\..\\..\\Kab-31-15\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-29T12:28:02.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\ApplicationContext.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\ApplicationContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:47:41.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Program.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Program.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Program.cs",
-              "RelativeToolTip": "ShopFlower\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:15:06.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "login_and_registration_script.js",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
               "RelativeToolTip": "ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-29T12:35:53.508Z"
+              "WhenOpened": "2024-11-29T12:35:53.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\User.cs",
               "RelativeToolTip": "ShopFlower.Domain\\Models\\User.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAzwD8AAAAMAAAA",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwD8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:57:47.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:47:32.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ShopFlower\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:09:09.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "ToolTip": "C:\\Users\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T14:03:38.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ShopFlower.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\ShopFlower.Data.csproj",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\ShopFlower.Data.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\ShopFlower.Data.csproj",
-              "RelativeToolTip": "ShopFlower.Domain\\ShopFlower.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T08:46:23.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ShopFlower.csproj",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\ShopFlower.csproj",
-              "RelativeDocumentMoniker": "ShopFlower\\ShopFlower.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\ShopFlower.csproj",
-              "RelativeToolTip": "ShopFlower\\ShopFlower.csproj",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-13T11:05:53.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "RegistrConfirm.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\RegistrConfirm.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Models\\RegistrConfirm.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\RegistrConfirm.cs",
-              "RelativeToolTip": "ShopFlower\\Models\\RegistrConfirm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T13:29:00.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MyAccountController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\MyAccountController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\MyAccountController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\MyAccountController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\MyAccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:26:32.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ShopFlower.Service.csproj",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ShopFlower.Service.csproj",
-              "RelativeDocumentMoniker": "ShopFlower.Service\\ShopFlower.Service.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ShopFlower.Service.csproj",
-              "RelativeToolTip": "ShopFlower.Service\\ShopFlower.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T07:31:18.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "WishList.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\WishList.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\WishList.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\WishList.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\WishList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:57:01.499Z"
+              "WhenOpened": "2024-11-19T08:57:47.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T14:43:04.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Cart.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:00:04.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Order.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:31:57.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OrdersConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:01:11.597Z"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:47:32.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "UserConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\UserConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\UserConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\UserConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\UserConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShopFlower\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:08:54.449Z"
+              "WhenOpened": "2024-11-21T08:09:09.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
+              "ToolTip": "C:\\Users\\kab-35-17\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0fa9708b-e334-4600-ad1a-a2d72bd23b62\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T14:03:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShopFlower.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\ShopFlower.Data.csproj",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\ShopFlower.Data.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\ShopFlower.Data.csproj",
+              "RelativeToolTip": "ShopFlower.Domain\\ShopFlower.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T08:46:23.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
+              "Title": "ShopFlower.csproj",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
+              "RelativeDocumentMoniker": "ShopFlower\\ShopFlower.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
+              "RelativeToolTip": "ShopFlower\\ShopFlower.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T11:05:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegistrConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\RegistrConfirm.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Models\\RegistrConfirm.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\RegistrConfirm.cs",
+              "RelativeToolTip": "ShopFlower\\Models\\RegistrConfirm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:29:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MyAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\MyAccountController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\MyAccountController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\MyAccountController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\MyAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:26:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShopFlower.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ShopFlower.Service.csproj",
+              "RelativeDocumentMoniker": "ShopFlower.Service\\ShopFlower.Service.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ShopFlower.Service.csproj",
+              "RelativeToolTip": "ShopFlower.Service\\ShopFlower.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T07:31:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WishList.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\WishList.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\WishList.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\WishList.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\WishList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:57:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:43:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Cart.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:00:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:31:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrdersConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\OrdersConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:01:11.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "20241125194458_123.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
-              "RelativeDocumentMoniker": "..\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
               "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
-              "RelativeToolTip": "..\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
+              "RelativeToolTip": "..\\..\\..\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125194458_123.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T19:44:59.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 55,
               "Title": "20241125192249_ShopFlower.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
-              "RelativeDocumentMoniker": "..\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
               "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
-              "RelativeToolTip": "..\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
+              "RelativeToolTip": "..\\..\\..\\aleks\\Desktop\\delivery-of-goods-Back-release-8.4.1.0\\ShopFlower.Domain\\Migrations\\20241125192249_ShopFlower.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T19:22:50.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 51,
               "Title": "WishListConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\WishListConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\WishListConfig.cs",
               "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\WishListConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\WishListConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\WishListConfig.cs",
               "RelativeToolTip": "ShopFlower.Domain\\Configuration\\WishListConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:03:31.954Z"
+              "WhenOpened": "2024-11-19T12:03:31.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 52,
               "Title": "CartConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\CartConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\CartConfig.cs",
               "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\CartConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\CartConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\CartConfig.cs",
               "RelativeToolTip": "ShopFlower.Domain\\Configuration\\CartConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:51:59.938Z"
+              "WhenOpened": "2024-11-19T11:51:59.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 57,
               "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\libman.json",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\libman.json",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\libman.json",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\libman.json",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\libman.json",
               "RelativeToolTip": "ShopFlower\\Views\\Shared\\libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T15:26:00.331Z"
+              "WhenOpened": "2024-11-21T15:26:00.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 58,
               "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "ShopFlower\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "ShopFlower\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:37:20.596Z"
+              "WhenOpened": "2024-11-12T17:37:20.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 56,
               "Title": "WishListController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\WishListController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\WishListController.cs",
               "RelativeDocumentMoniker": "ShopFlower\\Controllers\\WishListController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\WishListController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\WishListController.cs",
               "RelativeToolTip": "ShopFlower\\Controllers\\WishListController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T21:44:54.884Z"
+              "WhenOpened": "2024-11-10T21:44:54.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "font.awesome.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\font.awesome.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\font.awesome.css",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\font.awesome.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\font.awesome.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\font.awesome.css",
               "RelativeToolTip": "ShopFlower\\wwwroot\\css\\font.awesome.css",
               "ViewState": "AgIAAHkAAAAAAAAAAAAWwJQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-09T09:40:58.959Z"
+              "WhenOpened": "2024-11-09T09:40:58.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 59,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\viacheslavn\\AppData\\Local\\SourceServer\\b4690cbe6d8df55121d7f0756377588ce690564427a85cafd093d5dc4fe63079\\ShopFlower\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\viacheslavn\\AppData\\Local\\SourceServer\\b4690cbe6d8df55121d7f0756377588ce690564427a85cafd093d5dc4fe63079\\ShopFlower\\Controllers\\LoginController.cs",
@@ -937,413 +1145,343 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "ShopFlower\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\CartController.cs",
               "RelativeToolTip": "ShopFlower\\Controllers\\CartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T21:43:22.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\XUnitTestService\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "XUnitTestService\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\XUnitTestService\\UnitTest1.cs",
-              "RelativeToolTip": "XUnitTestService\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:30:51.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:17:57.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "fontawesome.min.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
-              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
-              "RelativeToolTip": "ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-21T12:02:54.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T14:44:42.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IServiceCart.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceCart\\IServiceCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:20:06.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "IServiceOrder.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceOrder\\IServiceOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:20:22.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "IServiceRoles.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:20:37.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ShortProduct.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceCart\\ShortProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:37:04.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "IServiceWishList.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
-              "RelativeToolTip": "ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:20:55.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ShopFlower.IService.csproj",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ShopFlower.IService.csproj",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ShopFlower.IService.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ShopFlower.IService.csproj",
-              "RelativeToolTip": "ShopFlower.IService\\ShopFlower.IService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T07:33:16.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "XUnitTestService.csproj",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\XUnitTestService\\XUnitTestService.csproj",
-              "RelativeDocumentMoniker": "XUnitTestService\\XUnitTestService.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\XUnitTestService\\XUnitTestService.csproj",
-              "RelativeToolTip": "XUnitTestService\\XUnitTestService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T15:39:53.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Addresses.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Addresses.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Addresses.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Addresses.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\Addresses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:25:59.1Z"
+              "WhenOpened": "2024-11-10T21:43:22.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 63,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Product.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\XUnitTestService\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XUnitTestService\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\XUnitTestService\\UnitTest1.cs",
+              "RelativeToolTip": "XUnitTestService\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:58:09.186Z"
+              "WhenOpened": "2024-11-20T07:30:51.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 62,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\ProductConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\ProductConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\ProductConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:58:56.321Z"
+              "Title": "fontawesome.min.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+              "RelativeToolTip": "ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T12:02:54.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 64,
-              "Title": "AddressesConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:30:33.876Z"
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:44:42.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 65,
-              "Title": "ShopFlower.Service",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ShopFlower.Service.csproj",
-              "RelativeDocumentMoniker": "ShopFlower.Service\\ShopFlower.Service.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Service\\ShopFlower.Service.csproj",
-              "RelativeToolTip": "ShopFlower.Service\\ShopFlower.Service.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T07:31:20.222Z"
+              "Title": "IServiceRoles.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceRoles\\IServiceRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:20:37.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 66,
-              "Title": "ShopFlower.IService",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ShopFlower.IService.csproj",
-              "RelativeDocumentMoniker": "ShopFlower.IService\\ShopFlower.IService.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.IService\\ShopFlower.IService.csproj",
-              "RelativeToolTip": "ShopFlower.IService\\ShopFlower.IService.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T07:31:12.204Z"
+              "Title": "IServiceWishList.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
+              "RelativeToolTip": "ShopFlower.IService\\ServiceWishList\\IServiceWishList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:20:55.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 67,
-              "Title": "RolesUserConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:39:30.771Z"
+              "Title": "XUnitTestService.csproj",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\XUnitTestService\\XUnitTestService.csproj",
+              "RelativeDocumentMoniker": "XUnitTestService\\XUnitTestService.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\XUnitTestService\\XUnitTestService.csproj",
+              "RelativeToolTip": "XUnitTestService\\XUnitTestService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T15:39:53.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 68,
-              "Title": "RoleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\RoleConfig.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\RoleConfig.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Configuration\\RoleConfig.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\RoleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Title": "Addresses.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Addresses.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Addresses.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Addresses.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\Addresses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:43:53.105Z"
+              "WhenOpened": "2024-11-20T08:25:59.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 69,
-              "Title": "RolesUser.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\RolesUser.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\RolesUser.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\RolesUser.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\RolesUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\ProductConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\ProductConfig.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\ProductConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:49:46.823Z"
+              "WhenOpened": "2024-11-19T11:58:56.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 70,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Roles.cs",
-              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Roles.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower.Domain\\Models\\Roles.cs",
-              "RelativeToolTip": "ShopFlower.Domain\\Models\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Title": "AddressesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\AddressesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:50:09.13Z"
+              "WhenOpened": "2024-11-20T08:30:33.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 71,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJoCAAAAAAAAAIBpwLQCAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T14:41:39.267Z"
+              "Title": "ShopFlower.Service",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ShopFlower.Service.csproj",
+              "RelativeDocumentMoniker": "ShopFlower.Service\\ShopFlower.Service.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Service\\ShopFlower.Service.csproj",
+              "RelativeToolTip": "ShopFlower.Service\\ShopFlower.Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T07:31:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ShopFlower.IService",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
+              "RelativeDocumentMoniker": "ShopFlower.IService\\ShopFlower.IService.csproj",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
+              "RelativeToolTip": "ShopFlower.IService\\ShopFlower.IService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T07:31:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RolesUserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\RolesUserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:39:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RoleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\RoleConfig.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Configuration\\RoleConfig.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Configuration\\RoleConfig.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Configuration\\RoleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:43:53.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 75,
+              "Title": "RolesUser.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\RolesUser.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\RolesUser.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\RolesUser.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\RolesUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:49:46.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "ShopFlower.Domain\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower.Domain\\Models\\Roles.cs",
+              "RelativeToolTip": "ShopFlower.Domain\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:50:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAABcBAAAAAAAAAOBvwCwBAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJcCAAAAAAAAAOBvwLQCAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:44:32.582Z"
+              "WhenOpened": "2024-11-08T14:41:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAABQBAAAAAAAAACBzwCwBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T17:44:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\WishList\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\WishList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\WishList\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\WishList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T21:48:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ShopFlower\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAANIVAAAAAAAAACBzwOwVAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T09:13:54.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\WishList\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\WishList\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\WishList\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\WishList\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T21:48:32.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAOBvwDwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T16:19:28.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "ShopFlower\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAANUVAAAAAAAAAOBvwOwVAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-09T09:13:54.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "ShopFlower\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAABcBAAAAAAAAAOBvwA0BAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABQBAAAAAAAAACBzwA0BAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T15:11:47.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAOBvwC8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T21:49:49.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:55:15.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ShopFlower\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T11:02:31.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "ShopFlower\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:41:09.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T16:42:26.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "IconShop.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shop\\IconShop.cshtml",
-              "RelativeDocumentMoniker": "ShopFlower\\Views\\Shop\\IconShop.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\Shop\\IconShop.cshtml",
-              "RelativeToolTip": "ShopFlower\\Views\\Shop\\IconShop.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAOBvwHUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T16:34:37.098Z"
+              "WhenOpened": "2024-11-10T15:11:47.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAACBzwC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T21:49:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:55:15.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ShopFlower\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T11:02:31.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ShopFlower\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:41:09.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopFlower\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ShopFlower\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T16:42:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -1351,76 +1489,46 @@
               "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-09T10:49:40.05Z"
+              "WhenOpened": "2024-11-09T10:49:40.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 88,
               "Title": "shared.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\shared.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\shared.css",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\shared.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\shared.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\shared.css",
               "RelativeToolTip": "ShopFlower\\wwwroot\\css\\shared.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-08T14:58:37.92Z"
+              "WhenOpened": "2024-11-08T14:58:37.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 89,
               "Title": "InfStyle.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\InfStyle.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\InfStyle.css",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\InfStyle.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\InfStyle.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\InfStyle.css",
               "RelativeToolTip": "ShopFlower\\wwwroot\\css\\InfStyle.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-08T14:47:53.437Z"
+              "WhenOpened": "2024-11-08T14:47:53.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 90,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ShopFlower\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ShopFlower\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T14:44:45.924Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c5dcfe76-e128-40fe-a940-1818f5a7f97c",
-        "Display": 0,
-        "X": 1237,
-        "Y": 186,
-        "Width": 721,
-        "Height": 721,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "ShopFlower\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\Models\\Login.cs",
-              "RelativeToolTip": "ShopFlower\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:18:09.068Z",
+              "WhenOpened": "2024-11-08T14:44:45.924Z",
               "EditorCaption": ""
             }
           ]
@@ -1446,15 +1554,49 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
               "Title": "confirm.css",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\confirm.css",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\confirm.css",
               "RelativeDocumentMoniker": "ShopFlower\\wwwroot\\css\\confirm.css",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\delivery-of-goods-Back-release-8.5.1.0\\ShopFlower\\wwwroot\\css\\confirm.css",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\wwwroot\\css\\confirm.css",
               "RelativeToolTip": "ShopFlower\\wwwroot\\css\\confirm.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-01T13:44:34.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c5dcfe76-e128-40fe-a940-1818f5a7f97c",
+        "Display": 0,
+        "X": 1237,
+        "Y": 186,
+        "Width": 721,
+        "Height": 721,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ShopFlower\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\Models\\Login.cs",
+              "RelativeToolTip": "ShopFlower\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:18:09.068Z",
               "EditorCaption": ""
             }
           ]
