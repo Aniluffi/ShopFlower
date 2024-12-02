@@ -3,8 +3,8 @@ using ShopFlower.Data;
 using ShopFlower.Service;
 using ShopFlower.IService.ServiceUser;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using Microsoft.AspNetCore.Authentication.Google;
+using ShopFlower.IService.ServiceProduct;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +13,7 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
 
 // Регистрация сервиса
 builder.Services.AddTransient<IServiceUser,ServiceUser>();
+builder.Services.AddTransient<IProductService,ServiceProduct>();
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
