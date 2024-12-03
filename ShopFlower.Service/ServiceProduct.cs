@@ -17,14 +17,25 @@ namespace ShopFlower.Service
         public async Task<Product> GetProduct(int productId)
         {
             await using var db = new ApplicationContext(_DBOptions);
-            return db.Products.FirstOrDefault(s => s.Id == productId);
+
+            var product = db.Products.FirstOrDefault(s => s.Id == productId);
+
+            if(product == null)
+                throw new Exception("Нет такого товара");
+
+            return product;
         }
 
         public async Task<List<ShortProduct>> GetProductShort(int take, int skip)
         {
             await using var db = new ApplicationContext(_DBOptions);
 
-           return db.Products.Skip(skip).Take(take).Select(x => ShortProduct.ConvertToShortProduct(x)).ToList();
+            var products = db.Products.Skip(skip).Take(take).Select(x => ShortProduct.ConvertToShortProduct(x)).ToList();
+
+            if (products.Count == 0 || products == null)
+                throw new Exception("Список товара пуст");
+
+            return products;
         }
     }
 }
