@@ -1,9 +1,9 @@
-﻿using ShopFlower.IService.ServiceCart;
+﻿using ShopFlower.IService.ServiceProduct;
 
 namespace ShopFlower.Models
 {
     public class ListProduct
     {
-        public List<ShortProduct>? Products { get; set; } = new List<ShortProduct>();
+        public List<ShortProduct>? Products { get; set; }
     }
 }

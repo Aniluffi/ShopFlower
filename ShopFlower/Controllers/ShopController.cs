@@ -2,8 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ShopFlower.Data;
 using ShopFlower.IService.ServiceProduct;
-using ShopFlower.IService.ServiceUser;
-
+using ShopFlower.Models;
 namespace ShopFlower.Controllers
 {
     public class ShopController : Controller
@@ -17,16 +16,20 @@ namespace ShopFlower.Controllers
             _options = options;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var product = _productService.GetProductShort(1,0);
-            return View();
+            ListProduct products = new ListProduct
+            {
+                Products = await _productService.GetProductShort(1, 0)
+            };
+            return View(products);
         }
 
-        public IActionResult ListProduct()
-        {
 
-            return View();
+        public async Task<IActionResult> ProductDetails(int id)
+        {
+            var product = await _productService.GetProduct(id);
+            return View(product);
         }
     }
 }

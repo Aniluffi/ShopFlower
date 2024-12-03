@@ -14,6 +14,7 @@ namespace ShopFlower.Data.Models
         public string DescriptionShort { get; set; } = string.Empty;
         public int Price { get; set; }
         public int Quantity { get; set; }
+        public string? Img { get; set; }
         public List<Cart> Carts { get; set; } = new List<Cart>();
         public List<WishList> WishList { get; set; } = new List<WishList>();
         public List<Order> Orders { get; set; } = new List<Order>();

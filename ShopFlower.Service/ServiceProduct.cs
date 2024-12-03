@@ -14,16 +14,17 @@ namespace ShopFlower.Service
             this._DBOptions = dbOptions;
         }
 
-        public Task<Product> GetProduct(int productId)
+        public async Task<Product> GetProduct(int productId)
         {
-            throw new NotImplementedException();
+            await using var db = new ApplicationContext(_DBOptions);
+            return db.Products.FirstOrDefault(s => s.Id == productId);
         }
 
-        public async Task<IEnumerable<ShortProduct>> GetProductShort(int take, int skip)
+        public async Task<List<ShortProduct>> GetProductShort(int take, int skip)
         {
             await using var db = new ApplicationContext(_DBOptions);
 
-            return db.Products.Skip(skip).Take(take).Select(x => ShortProduct.ConvertToShortProduct(x));
+           return db.Products.Skip(skip).Take(take).Select(x => ShortProduct.ConvertToShortProduct(x)).ToList();
         }
     }
 }

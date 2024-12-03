@@ -7,7 +7,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace ShopFlower.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class _1244 : Migration
+    public partial class _123 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -39,7 +39,8 @@ namespace ShopFlower.Data.Migrations
                     Description = table.Column<string>(type: "text", nullable: false),
                     DescriptionShort = table.Column<string>(type: "text", nullable: false),
                     Price = table.Column<int>(type: "integer", nullable: false),
-                    Quantity = table.Column<int>(type: "integer", nullable: false)
+                    Quantity = table.Column<int>(type: "integer", nullable: false),
+                    Img = table.Column<string>(type: "text", nullable: true)
                 },
                 constraints: table =>
                 {

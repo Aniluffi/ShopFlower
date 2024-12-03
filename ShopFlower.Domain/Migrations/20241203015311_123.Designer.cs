@@ -12,8 +12,8 @@ using ShopFlower.Data;
 namespace ShopFlower.Data.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20241202131242_1244")]
-    partial class _1244
+    [Migration("20241203015311_123")]
+    partial class _123
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -158,6 +158,9 @@ namespace ShopFlower.Data.Migrations
 
                     b.Property<string>("DescriptionShort")
                         .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Img")
                         .HasColumnType("text");
 
                     b.Property<string>("Name")

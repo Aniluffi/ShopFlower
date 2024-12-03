@@ -6,6 +6,7 @@ wwwroot\css\google_btn.css
 wwwroot\css\InfStyle.css
 wwwroot\css\jquery-ui.min.css
 wwwroot\css\magnific-popup.css
+wwwroot\css\no-products.css
 wwwroot\css\owl.carousel.min.css
 wwwroot\css\plugins.css
 wwwroot\css\shared.css

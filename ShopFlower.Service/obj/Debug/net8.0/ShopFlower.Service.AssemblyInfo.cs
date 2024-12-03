@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopFlower.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c0ae46fd0149c085782c881131e33615b0ebb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243c211b5635df83f012192223eb9201ac393c33")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopFlower.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopFlower.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
