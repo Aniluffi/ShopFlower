@@ -17,89 +17,89 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShopFlower
 build_property.RootNamespace = ShopFlower
-build_property.ProjectDir = C:\Users\aleks\Desktop\ShopFlower\ShopFlower\ShopFlower\
+build_property.ProjectDir = C:\Users\kab-35-17\Desktop\ShopFlower\ShopFlower\ShopFlower\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\aleks\Desktop\ShopFlower\ShopFlower\ShopFlower
+build_property.MSBuildProjectDirectory = C:\Users\kab-35-17\Desktop\ShopFlower\ShopFlower\ShopFlower
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/About/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Cart/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Contact/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Home/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Confirm.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Confirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/CreatePassword.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/CreatePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Registr.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Login/Registr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/MyAccount/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/MyAccount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlBY2NvdW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Service/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/Error.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_Layout.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_LayoutNuul.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_LayoutNuul.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROdXVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shop/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shop/ProductDetails.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/Shop/ProductDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/WishList/Index.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/WishList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaExpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/_ViewImports.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleks/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/_ViewStart.cshtml]
+[C:/Users/kab-35-17/Desktop/ShopFlower/ShopFlower/ShopFlower/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

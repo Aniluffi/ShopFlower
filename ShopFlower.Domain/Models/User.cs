@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace ShopFlower.Data.Models
 {
     public class User
     {
+        [Key]
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string SecondName { get; set; } = string.Empty;
@@ -20,11 +16,14 @@ namespace ShopFlower.Data.Models
         public string Email { get; set; } = string.Empty;
         public DateTime BirthOfDay { get; set; } 
         public List<RolesUser> Roles { get; set; } = new List<RolesUser>();
-        public List<Cart>? Carts { get; set; }
-        public List<WishList>? WishList { get; set; } 
+        public int CartId { get; set; }
+        public Cart? Cart { get; set; } = new Cart();
+        public int WishListId { get; set; }
+        public WishList? WishList { get; set; }
         public int AddressesId { get; set; }
-        public Addresses? Addresses { get; set; } = new Addresses();
-        public List<Order>? Orders { get; set; } 
+        public Addresses? Addresses { get; set; }
+        public int OrderId { get; set; }
+        public Order? Orders { get; set; }
 
 
         public static IEnumerable<Exception> IsValidName(string name)

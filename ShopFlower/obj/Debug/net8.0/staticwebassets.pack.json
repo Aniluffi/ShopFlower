@@ -1,1491 +1,1491 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\InfStyle.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\InfStyle.css",
       "PackagePath": "staticwebassets\\css\\InfStyle.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\animate.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\confirm.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\confirm.css",
       "PackagePath": "staticwebassets\\css\\confirm.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\font.awesome.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\font.awesome.css",
       "PackagePath": "staticwebassets\\css\\font.awesome.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\google_btn.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\google_btn.css",
       "PackagePath": "staticwebassets\\css\\google_btn.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\jquery-ui.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\no-products.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\no-products.css",
       "PackagePath": "staticwebassets\\css\\no-products.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\plugins.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\plugins.css",
       "PackagePath": "staticwebassets\\css\\plugins.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\shared.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\shared.css",
       "PackagePath": "staticwebassets\\css\\shared.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\slick.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\slinky.menu.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\slinky.menu.css",
       "PackagePath": "staticwebassets\\css\\slinky.menu.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.eot",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.eot",
       "PackagePath": "staticwebassets\\fonts\\plaza-icon.eot"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.svg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.svg",
       "PackagePath": "staticwebassets\\fonts\\plaza-icon.svg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.ttf",
       "PackagePath": "staticwebassets\\fonts\\plaza-icon.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.woff",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\fonts\\plaza-icon.woff",
       "PackagePath": "staticwebassets\\fonts\\plaza-icon.woff"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\R.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\R.png",
       "PackagePath": "staticwebassets\\img\\R.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon1.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon1.png",
       "PackagePath": "staticwebassets\\img\\about\\About_icon1.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon2.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon2.png",
       "PackagePath": "staticwebassets\\img\\about\\About_icon2.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon3.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\About_icon3.png",
       "PackagePath": "staticwebassets\\img\\about\\About_icon3.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about-us-policy-bg.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about-us-policy-bg.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about-us-policy-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about-us-signature.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about-us-signature.png",
       "PackagePath": "staticwebassets\\img\\about\\about-us-signature.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about1.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about2.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about3.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\about4.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping1.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping1.png",
       "PackagePath": "staticwebassets\\img\\about\\shipping1.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping2.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping2.png",
       "PackagePath": "staticwebassets\\img\\about\\shipping2.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping3.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\shipping3.png",
       "PackagePath": "staticwebassets\\img\\about\\shipping3.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial1.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial1.png",
       "PackagePath": "staticwebassets\\img\\about\\testimonial1.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial2.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial2.png",
       "PackagePath": "staticwebassets\\img\\about\\testimonial2.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial3.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonial3.png",
       "PackagePath": "staticwebassets\\img\\about\\testimonial3.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonials-icon.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\about\\testimonials-icon.png",
       "PackagePath": "staticwebassets\\img\\about\\testimonials-icon.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner1.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner2.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner3.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner4.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner5.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner5.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner5.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner6.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner6.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner6.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner7.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\banner7.jpg",
       "PackagePath": "staticwebassets\\img\\bg\\banner7.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\img-top-vogue3.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\img-top-vogue3.png",
       "PackagePath": "staticwebassets\\img\\bg\\img-top-vogue3.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\signature.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\bg\\signature.png",
       "PackagePath": "staticwebassets\\img\\bg\\signature.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-big1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-big2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-big3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-big4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big5.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog-big5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-big5.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog12.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog12.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog12.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog13.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog13.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog13.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog14.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog14.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog14.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog15.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog15.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog15.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blog3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage5.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage5.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage6.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\blogpage6.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blogpage6.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\comment2.jpeg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\comment2.jpeg",
       "PackagePath": "staticwebassets\\img\\blog\\comment2.jpeg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\comment2.png.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\blog\\comment2.png.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\comment2.png.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand1.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand1.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand1.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand2.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand2.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand2.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand3.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand3.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand3.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand4.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand4.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand4.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand5.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand5.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand5.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand6.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\brand\\brand6.png",
       "PackagePath": "staticwebassets\\img\\brand\\brand6.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_grid4.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_grid4.png",
       "PackagePath": "staticwebassets\\img\\icon\\bkg_grid4.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_grid_hover.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_grid_hover.png",
       "PackagePath": "staticwebassets\\img\\icon\\bkg_grid_hover.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_list.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\bkg_list.png",
       "PackagePath": "staticwebassets\\img\\icon\\bkg_list.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\icon-app.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\icon-app.jpg",
       "PackagePath": "staticwebassets\\img\\icon\\icon-app.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\icon1-app.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\icon1-app.jpg",
       "PackagePath": "staticwebassets\\img\\icon\\icon1-app.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\papyel.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\papyel.png",
       "PackagePath": "staticwebassets\\img\\icon\\papyel.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\payment.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\icon\\payment.png",
       "PackagePath": "staticwebassets\\img\\icon\\payment.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\logo\\logo.png",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo\\logo.png"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product10.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product10.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product10.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product11.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product11.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product11.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product12.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product12.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product12.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product5.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product5.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product5.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product6.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product6.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product6.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product7.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product7.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product7.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product8.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product8.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product8.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product9.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\product9.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product9.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\productbig1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\productbig2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\productbig3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\product\\productbig4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\productbig4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product.jpg",
       "PackagePath": "staticwebassets\\img\\s-product\\product.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product2.jpg",
       "PackagePath": "staticwebassets\\img\\s-product\\product2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\s-product\\product3.jpg",
       "PackagePath": "staticwebassets\\img\\s-product\\product3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services1.jpg",
       "PackagePath": "staticwebassets\\img\\service\\services1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services2.jpg",
       "PackagePath": "staticwebassets\\img\\service\\services2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services3.jpg",
       "PackagePath": "staticwebassets\\img\\service\\services3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\service\\services4.jpg",
       "PackagePath": "staticwebassets\\img\\service\\services4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider1.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider1.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider1.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider10.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider10.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider10.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider11.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider11.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider11.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider12.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider12.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider12.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider2.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider2.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider3.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider3.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider3.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider4.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider4.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider4.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider5.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider5.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider5.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider6.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider6.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider6.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider7.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider7.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider7.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider8.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider8.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider8.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider9.jpg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider9.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider9.jpg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.countdown.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.countdown.js",
       "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.elevatezoom.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.elevatezoom.js",
       "PackagePath": "staticwebassets\\js\\jquery.elevatezoom.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.ui.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\jquery.ui.js",
       "PackagePath": "staticwebassets\\js\\jquery.ui.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\login_and_registration_script.js",
       "PackagePath": "staticwebassets\\js\\login_and_registration_script.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\plugins.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\popper.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\popper.js",
       "PackagePath": "staticwebassets\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\slick.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\slinky.menu.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\slinky.menu.js",
       "PackagePath": "staticwebassets\\js\\slinky.menu.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\vendor\\jquery-3.4.1.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\vendor\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\vendor\\modernizr-3.7.1.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\vendor\\modernizr-3.7.1.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.7.1.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\brands.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\solid.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\kab-35-17\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

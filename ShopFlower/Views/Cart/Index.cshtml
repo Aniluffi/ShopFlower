@@ -2,7 +2,7 @@
 @{
     ViewBag.Title = "Cart";
 }
-@model List<ShopFlower.Data.Models.Cart>
+@model ShopFlower.Data.Models.Cart
 
 <!--breadcrumbs area start-->
 <div class="breadcrumbs_area" style="padding: 100px 0px">
@@ -28,7 +28,7 @@
                 <div class="col-12">
                     <div class="table_desc">
                         <div class="cart_page table-responsive">
-                            @if(Model != null && Model.Count != 0)
+                        @if (Model != null && Model.Products.Count != 0 && Model.Products != null)
                             {
                             <table>
                                 <thead>
@@ -42,20 +42,21 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    @foreach(var item in Model)
+                                    @foreach(var item in Model.Products)
                                     {
-                                        <tr onclick="window.location.href='@Url.Action("ProductDetails","Shop",new {id = item.Products.Id})'">
+                                        <tr onclick="window.location.href='@Url.Action("ProductDetails","Shop",new {id = item.Id})'">
                                             <td class="product_remove">
                                                 <form action="/" method="post"> <a href="#"><i class="fa fa-trash-o"></i></a></form>
                                             </td>
                                             <td class="product_thumb">
                                                 <a href="#">
-                                                    <img src="~/img/s-product/@item.Products.Img" alt="">
+                                                    <img src="~/img/s-product/@item.Img" alt="">
                                                 </a>
                                             </td>
-                                            <td class="product_name"><a href="#">@item.Products.Name</a></td>
-                                            <td class="product-price">£@item.Products.Price</td>
-                                            <td class="product_total">£@item.TotalSum</td>
+                                            <td class="product_name"><a href="#">@item.Name</a></td>
+                                            <td class="product-price">£@item.Price</td>
+                                            <td class="product-price">£@item.Quantity</td>
+                                            <td class="product_total">£@item.Total</td>
                                         </tr>
                                     }
                                 </tbody>

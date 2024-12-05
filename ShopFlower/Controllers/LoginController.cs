@@ -150,7 +150,7 @@ namespace ShopFlower.Controllers
                     RedirectUri = Url.Action("GoogleResponse", new { returnURL }),
                     Parameters = { { "prompt", "select_account" } }
                 });
-        }
+         }
 
         public async Task<IActionResult> GoogleResponse(string returnURL = "/")
         {

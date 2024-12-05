@@ -11,12 +11,11 @@ namespace ShopFlower.Data.Configuration
             builder.ToTable("WishList").HasKey(s => s.Id);
 
             builder.HasOne(s => s.User)
-              .WithMany(s => s.WishList)
-              .HasForeignKey(s => s.userId);
+              .WithOne(s => s.WishList)
+              .HasForeignKey<WishList>(c => c.userId);
 
-            builder.HasOne(s => s.Products)
-                .WithMany(s => s.WishList)
-                .HasForeignKey(s => s.ProductId);
+            builder.HasMany(s => s.Products)
+                .WithMany(s => s.WishList);
 
         }
     }

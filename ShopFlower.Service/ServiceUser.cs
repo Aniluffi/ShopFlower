@@ -33,11 +33,7 @@ namespace ShopFlower.Service
 
                 if (list.Count != 0) return list;
 
-                user.Carts.Add(new Cart
-                {
-                    TotalSum = product.Price * product.Quantity,
-                    Products = product
-                });
+                user.Cart.Products.Add(product);
                 await dB.SaveChangesAsync();
             }
             catch (DbUpdateException ex)
@@ -48,10 +44,10 @@ namespace ShopFlower.Service
             {
                 Console.WriteLine("Ошибка SQL: " + ex.Message);
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.ToString());
+            //}
 
             return list;
         }
@@ -120,18 +116,26 @@ namespace ShopFlower.Service
             throw new NotImplementedException();
         }
 
-        public async Task<List<Cart>> GetProductInCart(int userId)
+        public async Task<Cart> GetProductInCart(int userId)
         {
             try
             {
                await using var db = new ApplicationContext(_DBOptions);
 
-                var user = await db.Users.FirstAsync(c => c.Id == userId);
+                //var user = await db.Carts.Where(x=>x.userId==userId).Select(x => new Cart
+                //{
+                //    Id = x.Id,
+                //    ProductId = x.ProductId,
+                //    Products = x.Products,
+                //    userId = userId
+                //}).ToListAsync();
 
+                var user = db.Users.FirstOrDefault(x => x.Id == userId);
 
                 if (user != null)
                 {
-                    return user.Carts;
+                   
+                    return user.Cart ;
                 }
                 else throw new Exception("Пользователя нет");
             }
@@ -144,7 +148,7 @@ namespace ShopFlower.Service
                 Console.WriteLine("Ошибка SQL: " + ex.Message);
             }
             
-            return new List<Cart>();
+            return new Cart();
         }
 
         public Task<List<ShortUser>> GetShortUser(int userId)
