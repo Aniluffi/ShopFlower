@@ -14,8 +14,9 @@ namespace ShopFlower.Data.Configuration
               .WithMany(s => s.WishList)
               .HasForeignKey(s => s.userId);
 
-            builder.HasMany(s => s.Products)
-                .WithMany(s => s.WishList);
+            builder.HasOne(s => s.Products)
+                .WithMany(s => s.WishList)
+                .HasForeignKey(s => s.ProductId);
 
         }
     }

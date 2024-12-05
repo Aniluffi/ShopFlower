@@ -10,7 +10,8 @@ namespace ShopFlower.Data.Models
     {
         public int Id { get; set; }
         public int TotalSum { get; set; }
-        public List<Product>? Products { get; set; }
+        public int ProductId { get; set; }
+        public Product? Products { get; set; }
         public int userId { get; set; }
         public User? User { get; set; } 
     }

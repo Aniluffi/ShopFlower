@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rZJ/MM0yGU=",
+  "dgSpecHash": "20MSm7TH8u0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower.IService\\ShopFlower.IService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\mailkit\\4.8.0\\mailkit.4.8.0.nupkg.sha512",

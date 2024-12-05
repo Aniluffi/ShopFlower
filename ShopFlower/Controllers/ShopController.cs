@@ -18,11 +18,18 @@ namespace ShopFlower.Controllers
 
         public async Task<IActionResult> Index()
         {
-            ListProduct products = new ListProduct
+            try
             {
-                Products = await _productService.GetProductShort(1, 0)
-            };
-            return View(products);
+                ListProduct products = new ListProduct
+                {
+                    Products = await _productService.GetProductShort(1, 0)
+                };
+                return View(products);
+            }
+            catch(Exception)
+            {
+                return View(new ListProduct());
+            }
         }
 
 

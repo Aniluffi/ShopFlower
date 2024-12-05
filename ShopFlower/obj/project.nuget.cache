@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fhv2kwzbc34=",
+  "dgSpecHash": "JzxJVa8uCQY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\ShopFlower.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

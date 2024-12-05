@@ -16,9 +16,44 @@ namespace ShopFlower.Service
             this._DBOptions = dbOptions;
         }
 
-        public Task<IEnumerable<Exception>> AddProductInCart(int userId, int productId)
+        public async Task<IEnumerable<Exception>> AddProductInCart(int userId, int productId)
         {
-            throw new NotImplementedException();
+
+            var list = new List<Exception>();
+            try
+            {
+
+                await using var dB = new ApplicationContext(this._DBOptions);
+
+                var user = await dB.Users.FirstOrDefaultAsync(c => c.Id == userId);
+                var product = await dB.Products.FirstOrDefaultAsync(c => c.Id == productId);
+
+                if (user == null) list.Add(new Exception($"Нет такого пользователя"));
+                if (product == null) list.Add(new Exception($"Нет такого товара"));
+
+                if (list.Count != 0) return list;
+
+                user.Carts.Add(new Cart
+                {
+                    TotalSum = product.Price * product.Quantity,
+                    Products = product
+                });
+                await dB.SaveChangesAsync();
+            }
+            catch (DbUpdateException ex)
+            {
+                Console.WriteLine("Ошибка при обновлении базы данных" + ex.Message);
+            }
+            catch (NpgsqlException ex)
+            {
+                Console.WriteLine("Ошибка SQL: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+
+            return list;
         }
 
         public Task<IEnumerable<Exception>> AddProductInOrders(int userId, int productId)
@@ -83,6 +118,33 @@ namespace ShopFlower.Service
         public Task<IEnumerable<Exception>> DeleteUser(int userId)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<List<Cart>> GetProductInCart(int userId)
+        {
+            try
+            {
+               await using var db = new ApplicationContext(_DBOptions);
+
+                var user = await db.Users.FirstAsync(c => c.Id == userId);
+
+
+                if (user != null)
+                {
+                    return user.Carts;
+                }
+                else throw new Exception("Пользователя нет");
+            }
+            catch (DbUpdateException ex)
+            {
+                Console.WriteLine("Ошибка при обновлении базы данных" + ex.Message);
+            }
+            catch (NpgsqlException ex)
+            {
+                Console.WriteLine("Ошибка SQL: " + ex.Message);
+            }
+            
+            return new List<Cart>();
         }
 
         public Task<List<ShortUser>> GetShortUser(int userId)

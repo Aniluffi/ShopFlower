@@ -10,8 +10,9 @@ namespace ShopFlower.Data.Configuration
         {
             builder.ToTable("Orders").HasKey(c => c.Id);
 
-            builder.HasMany(c => c.Products)
-                .WithMany(c => c.Orders);
+            builder.HasOne(c => c.Products)
+                .WithMany(c => c.Orders)
+                .HasForeignKey(c => c.ProductId);
 
             builder.HasOne(c => c.User)
                 .WithMany(c => c.Orders)

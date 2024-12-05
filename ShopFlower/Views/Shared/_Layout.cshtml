@@ -76,12 +76,20 @@
                                         <ul class="sub-menu">
                                             <li><a href="/service/index">Service</a></li>
                                             <li><a href="/contact/index">contact</a></li>
-                                            @if (!User.Identity.IsAuthenticated)
-                                            {
+                                        @if (!User.Identity.IsAuthenticated)
 
-                                                <li><a href="/login/index">login</a></li>
+                                        {
 
-                                            }
+                                            <li><a href="/login/index">login</a></li>
+
+                                        }
+                                        @if (User.Identity.IsAuthenticated)
+
+                                        {
+
+                                            <li><a href='/login/logout'>Logout</a></li>
+
+                                        }
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">

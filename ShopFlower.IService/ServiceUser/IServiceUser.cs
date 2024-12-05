@@ -20,6 +20,7 @@ namespace ShopFlower.IService.ServiceUser
         Task<IEnumerable<Exception>> DeleteAddresses(int userId);
         Task<IEnumerable<Exception>> AddProductInWishList(int userId, int productId);
         Task<IEnumerable<Exception>> AddProductInCart(int userId, int productId);
+        Task<List<Cart>> GetProductInCart(int userId);
         Task<IEnumerable<Exception>> AddProductInOrders(int userId, int productId);
         Task<IEnumerable<Exception>> RemoveProductInWishList(int userId, int productId);
         Task<IEnumerable<Exception>> RemoveProductInCart(int userId, int productId);

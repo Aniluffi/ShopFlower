@@ -20,8 +20,6 @@
             </div>
             <div class="col-lg-6 col-md-6">
                 <div class="product_d_right">
-                    <form action="#">
-
                         <h1><a href="#">@Model.Name</a></h1>
 
 
@@ -37,15 +35,14 @@
                         <div class="product_variant quantity">
                             <label>quantity</label>
                             <input min="1" max="100" value="1" type="number">
-                            <button class="button" type="submit">add to cart</button>
+                            <button class="button" type="submit" onclick="window.location.href = '@Url.Action("AddProductCart","Cart",new {product = Model.Id})'">add to cart</button>
 
                         </div>
                         <div class=" product_d_action">
                             <ul>
-                                <li><a href="#" title="Add to wishlist">+ Add to Wishlist</a></li>
+                                <li><a href="#" title="Add to wishlist" >+ Add to Wishlist</a></li>
                             </ul>
                         </div>
-                    </form>
                 </div>
             </div>
         </div>

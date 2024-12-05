@@ -22,51 +22,6 @@ namespace ShopFlower.Data.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("CartProduct", b =>
-                {
-                    b.Property<int>("CartsId")
-                        .HasColumnType("integer");
-
-                    b.Property<int>("ProductsId")
-                        .HasColumnType("integer");
-
-                    b.HasKey("CartsId", "ProductsId");
-
-                    b.HasIndex("ProductsId");
-
-                    b.ToTable("CartProduct");
-                });
-
-            modelBuilder.Entity("OrderProduct", b =>
-                {
-                    b.Property<int>("OrdersId")
-                        .HasColumnType("integer");
-
-                    b.Property<int>("ProductsId")
-                        .HasColumnType("integer");
-
-                    b.HasKey("OrdersId", "ProductsId");
-
-                    b.HasIndex("ProductsId");
-
-                    b.ToTable("OrderProduct");
-                });
-
-            modelBuilder.Entity("ProductWishList", b =>
-                {
-                    b.Property<int>("ProductsId")
-                        .HasColumnType("integer");
-
-                    b.Property<int>("WishListId")
-                        .HasColumnType("integer");
-
-                    b.HasKey("ProductsId", "WishListId");
-
-                    b.HasIndex("WishListId");
-
-                    b.ToTable("ProductWishList");
-                });
-
             modelBuilder.Entity("ShopFlower.Data.Models.Addresses", b =>
                 {
                     b.Property<int>("Id")
@@ -107,6 +62,9 @@ namespace ShopFlower.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ProductId")
+                        .HasColumnType("integer");
+
                     b.Property<int>("TotalSum")
                         .HasColumnType("integer");
 
@@ -114,6 +72,8 @@ namespace ShopFlower.Data.Migrations
                         .HasColumnType("integer");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
 
                     b.HasIndex("userId");
 
@@ -128,6 +88,9 @@ namespace ShopFlower.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ProductId")
+                        .HasColumnType("integer");
+
                     b.Property<int>("TotalSum")
                         .HasColumnType("integer");
 
@@ -135,6 +98,8 @@ namespace ShopFlower.Data.Migrations
                         .HasColumnType("integer");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
 
                     b.HasIndex("userId");
 
@@ -253,79 +218,55 @@ namespace ShopFlower.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ProductId")
+                        .HasColumnType("integer");
+
                     b.Property<int>("userId")
                         .HasColumnType("integer");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
 
                     b.HasIndex("userId");
 
                     b.ToTable("WishList", (string)null);
                 });
 
-            modelBuilder.Entity("CartProduct", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.Cart", null)
-                        .WithMany()
-                        .HasForeignKey("CartsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ShopFlower.Data.Models.Product", null)
-                        .WithMany()
-                        .HasForeignKey("ProductsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("OrderProduct", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.Order", null)
-                        .WithMany()
-                        .HasForeignKey("OrdersId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ShopFlower.Data.Models.Product", null)
-                        .WithMany()
-                        .HasForeignKey("ProductsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("ProductWishList", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.Product", null)
-                        .WithMany()
-                        .HasForeignKey("ProductsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ShopFlower.Data.Models.WishList", null)
-                        .WithMany()
-                        .HasForeignKey("WishListId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("ShopFlower.Data.Models.Cart", b =>
                 {
+                    b.HasOne("ShopFlower.Data.Models.Product", "Products")
+                        .WithMany("Carts")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("ShopFlower.Data.Models.User", "User")
                         .WithMany("Carts")
                         .HasForeignKey("userId")
                         .OnDelete(DeleteBehavior.SetNull)
                         .IsRequired();
 
+                    b.Navigation("Products");
+
                     b.Navigation("User");
                 });
 
             modelBuilder.Entity("ShopFlower.Data.Models.Order", b =>
                 {
+                    b.HasOne("ShopFlower.Data.Models.Product", "Products")
+                        .WithMany("Orders")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("ShopFlower.Data.Models.User", "User")
                         .WithMany("Orders")
                         .HasForeignKey("userId")
                         .OnDelete(DeleteBehavior.SetNull)
                         .IsRequired();
+
+                    b.Navigation("Products");
 
                     b.Navigation("User");
                 });
@@ -362,11 +303,19 @@ namespace ShopFlower.Data.Migrations
 
             modelBuilder.Entity("ShopFlower.Data.Models.WishList", b =>
                 {
+                    b.HasOne("ShopFlower.Data.Models.Product", "Products")
+                        .WithMany("WishList")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("ShopFlower.Data.Models.User", "User")
                         .WithMany("WishList")
                         .HasForeignKey("userId")
                         .OnDelete(DeleteBehavior.SetNull)
                         .IsRequired();
+
+                    b.Navigation("Products");
 
                     b.Navigation("User");
                 });
@@ -374,6 +323,15 @@ namespace ShopFlower.Data.Migrations
             modelBuilder.Entity("ShopFlower.Data.Models.Addresses", b =>
                 {
                     b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("ShopFlower.Data.Models.Product", b =>
+                {
+                    b.Navigation("Carts");
+
+                    b.Navigation("Orders");
+
+                    b.Navigation("WishList");
                 });
 
             modelBuilder.Entity("ShopFlower.Data.Models.Roles", b =>
