@@ -18,36 +18,50 @@ namespace ShopFlower.Service
 
         public async Task<IEnumerable<Exception>> AddProductInCart(int userId, int productId)
         {
-
             var list = new List<Exception>();
             try
             {
-
                 await using var dB = new ApplicationContext(this._DBOptions);
 
-                var user = await dB.Users.FirstOrDefaultAsync(c => c.Id == userId);
+                // Получение продукта
                 var product = await dB.Products.FirstOrDefaultAsync(c => c.Id == productId);
+                if (product == null)
+                {
+                    list.Add(new Exception("Нет такого товара"));
+                    return list;
+                }
 
-                if (user == null) list.Add(new Exception($"Нет такого пользователя"));
-                if (product == null) list.Add(new Exception($"Нет такого товара"));
+                //// Получение пользователя
+                //if (user == null)
+                //{
+                //    list.Add(new Exception("Нет такого пользователя"));
+                //    return list;
+                //}
 
-                if (list.Count != 0) return list;
+                //// Проверка на наличие корзины
+                //if (user.Cart == null)
+                //{
+                //    list.Add(new Exception("У пользователя нет корзины"));
+                //    return list;
+                //}
 
-                user.Cart.Products.Add(product);
+                // Добавление продукта в корзину
+                var d = dB.Users.Include(c => c.Id == userId).FirstOrDefault();
+                d.Cart.Products.Add(product);
                 await dB.SaveChangesAsync();
             }
             catch (DbUpdateException ex)
             {
-                Console.WriteLine("Ошибка при обновлении базы данных" + ex.Message);
+                list.Add(new Exception($"Ошибка при обновлении базы данных: {ex.Message}", ex));
             }
             catch (NpgsqlException ex)
             {
-                Console.WriteLine("Ошибка SQL: " + ex.Message);
+                list.Add(new Exception($"Ошибка SQL: {ex.Message}", ex));
             }
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine(ex.ToString());
-            //}
+            catch (Exception ex)
+            {
+                list.Add(new Exception($"Произошла ошибка: {ex.Message}", ex));
+            }
 
             return list;
         }
@@ -120,35 +134,42 @@ namespace ShopFlower.Service
         {
             try
             {
-               await using var db = new ApplicationContext(_DBOptions);
+                await using var db = new ApplicationContext(_DBOptions);
 
-                //var user = await db.Carts.Where(x=>x.userId==userId).Select(x => new Cart
-                //{
-                //    Id = x.Id,
-                //    ProductId = x.ProductId,
-                //    Products = x.Products,
-                //    userId = userId
-                //}).ToListAsync();
+                // Загрузка пользователя с корзиной
+                var user = await db.Users
+                                   .Include(u => u.Cart)
+                                   .ThenInclude(c => c.Products)
+                                   .FirstOrDefaultAsync(u => u.Id == userId);
 
-                var user = db.Users.FirstOrDefault(x => x.Id == userId);
-
-                if (user != null)
+                if (user == null)
                 {
-                   
-                    return user.Cart ;
+                    throw new Exception("Пользователя нет");
                 }
-                else throw new Exception("Пользователя нет");
+
+                // Проверка на наличие корзины
+                if (user.Cart == null)
+                {
+                    throw new Exception("У пользователя нет корзины");
+                }
+
+                return user.Cart;
             }
             catch (DbUpdateException ex)
             {
-                Console.WriteLine("Ошибка при обновлении базы данных" + ex.Message);
+                Console.WriteLine($"Ошибка при обновлении базы данных: {ex.Message}");
+                throw; // Проброс исключения, чтобы вызвать корректную обработку выше
             }
             catch (NpgsqlException ex)
             {
-                Console.WriteLine("Ошибка SQL: " + ex.Message);
+                Console.WriteLine($"Ошибка SQL: {ex.Message}");
+                throw; // Проброс исключения
             }
-            
-            return new Cart();
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine($"Произошла ошибка: {ex.Message}");
+            //    throw; // Проброс исключения
+            //}
         }
 
         public Task<List<ShortUser>> GetShortUser(int userId)

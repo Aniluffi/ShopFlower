@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using ShopFlower.Data.Models;
 
 namespace ShopFlower.Data.Models
 {
@@ -15,15 +16,15 @@ namespace ShopFlower.Data.Models
         [Required]
         public string Email { get; set; } = string.Empty;
         public DateTime BirthOfDay { get; set; } 
-        public List<RolesUser> Roles { get; set; } = new List<RolesUser>();
+        public List<RolesUser>? Roles { get; set; } = new List<RolesUser>();
         public int CartId { get; set; }
         public Cart? Cart { get; set; } = new Cart();
         public int WishListId { get; set; }
-        public WishList? WishList { get; set; }
+        public WishList? WishList { get; set; } = new WishList();
         public int AddressesId { get; set; }
-        public Addresses? Addresses { get; set; }
+        public Addresses Addresses { get; set; } = new Addresses();
         public int OrderId { get; set; }
-        public Order? Orders { get; set; }
+        public Order? Orders { get; set; } = new Order();
 
 
         public static IEnumerable<Exception> IsValidName(string name)

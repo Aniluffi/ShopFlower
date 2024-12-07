@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShopFlower.Data;
-using ShopFlower.IService.ServiceUser;
 using ShopFlower.Data.Models;
+using ShopFlower.IService.ServiceUser;
 
 namespace ShopFlower.Controllers
 {
@@ -23,21 +23,57 @@ namespace ShopFlower.Controllers
         {
             try
             {
-                var id = User.FindFirst("UserId")?.Value;
-                var cards = await _serviceUser.GetProductInCart(Convert.ToInt32(id));
-                return View(cards);
+                var userId = User.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(userId))
+                {
+                    throw new UnauthorizedAccessException("Пользователь не авторизован.");
+                }
+
+                var cart = await _serviceUser.GetProductInCart(Convert.ToInt32(userId));
+                return View(cart);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return View(new List<Cart>());
+                // Логирование ошибки
+                Console.WriteLine($"Ошибка в Index: {ex.Message}");
+                return View(new Cart());
             }
         }
 
         public async Task<IActionResult> AddProductCart(int product)
         {
-            var userId = User.FindFirst("UserId")?.Value;
-            await _serviceUser.AddProductInCart(Convert.ToInt32(userId),product);
-            return View("Index");
+            try
+            {
+                var userId = User.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(userId))
+                {
+                    throw new UnauthorizedAccessException("Пользователь не авторизован.");
+                }
+
+                if (product <= 0)
+                {
+                    throw new ArgumentException("Неверный идентификатор продукта.");
+                }
+
+                var exceptions = await _serviceUser.AddProductInCart(Convert.ToInt32(userId), product);
+
+                if (exceptions.Any())
+                {
+                    // Сообщение об ошибке пользователю
+                    TempData["Errors"] = exceptions.Select(e => e.Message).ToList();
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                // Логирование ошибки
+                Console.WriteLine($"Ошибка в AddProductCart: {ex.Message}");
+                TempData["Errors"] = new List<string> { "Произошла ошибка при добавлении товара в корзину." };
+                return RedirectToAction(nameof(Index));
+            }
         }
     }
 }

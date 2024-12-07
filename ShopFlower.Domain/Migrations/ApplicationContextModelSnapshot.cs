@@ -110,13 +110,7 @@ namespace ShopFlower.Data.Migrations
                     b.Property<int>("TotalSum")
                         .HasColumnType("integer");
 
-                    b.Property<int>("userId")
-                        .HasColumnType("integer");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("userId")
-                        .IsUnique();
 
                     b.ToTable("Cart", (string)null);
                 });
@@ -132,13 +126,7 @@ namespace ShopFlower.Data.Migrations
                     b.Property<int>("TotalSum")
                         .HasColumnType("integer");
 
-                    b.Property<int>("userId")
-                        .HasColumnType("integer");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("userId")
-                        .IsUnique();
 
                     b.ToTable("Orders");
                 });
@@ -256,6 +244,15 @@ namespace ShopFlower.Data.Migrations
 
                     b.HasIndex("AddressesId");
 
+                    b.HasIndex("CartId")
+                        .IsUnique();
+
+                    b.HasIndex("OrderId")
+                        .IsUnique();
+
+                    b.HasIndex("WishListId")
+                        .IsUnique();
+
                     b.ToTable("User", (string)null);
                 });
 
@@ -267,13 +264,7 @@ namespace ShopFlower.Data.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("userId")
-                        .HasColumnType("integer");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("userId")
-                        .IsUnique();
 
                     b.ToTable("WishList", (string)null);
                 });
@@ -323,28 +314,6 @@ namespace ShopFlower.Data.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("ShopFlower.Data.Models.Cart", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.User", "User")
-                        .WithOne("Cart")
-                        .HasForeignKey("ShopFlower.Data.Models.Cart", "userId")
-                        .OnDelete(DeleteBehavior.SetNull)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
-            modelBuilder.Entity("ShopFlower.Data.Models.Order", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.User", "User")
-                        .WithOne("Orders")
-                        .HasForeignKey("ShopFlower.Data.Models.Order", "userId")
-                        .OnDelete(DeleteBehavior.SetNull)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("ShopFlower.Data.Models.RolesUser", b =>
                 {
                     b.HasOne("ShopFlower.Data.Models.Roles", "Role")
@@ -372,23 +341,46 @@ namespace ShopFlower.Data.Migrations
                         .OnDelete(DeleteBehavior.SetNull)
                         .IsRequired();
 
-                    b.Navigation("Addresses");
-                });
-
-            modelBuilder.Entity("ShopFlower.Data.Models.WishList", b =>
-                {
-                    b.HasOne("ShopFlower.Data.Models.User", "User")
-                        .WithOne("WishList")
-                        .HasForeignKey("ShopFlower.Data.Models.WishList", "userId")
+                    b.HasOne("ShopFlower.Data.Models.Cart", "Cart")
+                        .WithOne("User")
+                        .HasForeignKey("ShopFlower.Data.Models.User", "CartId")
                         .OnDelete(DeleteBehavior.SetNull)
                         .IsRequired();
 
-                    b.Navigation("User");
+                    b.HasOne("ShopFlower.Data.Models.Order", "Orders")
+                        .WithOne("User")
+                        .HasForeignKey("ShopFlower.Data.Models.User", "OrderId")
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
+
+                    b.HasOne("ShopFlower.Data.Models.WishList", "WishList")
+                        .WithOne("User")
+                        .HasForeignKey("ShopFlower.Data.Models.User", "WishListId")
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
+
+                    b.Navigation("Addresses");
+
+                    b.Navigation("Cart");
+
+                    b.Navigation("Orders");
+
+                    b.Navigation("WishList");
                 });
 
             modelBuilder.Entity("ShopFlower.Data.Models.Addresses", b =>
                 {
                     b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("ShopFlower.Data.Models.Cart", b =>
+                {
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("ShopFlower.Data.Models.Order", b =>
+                {
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("ShopFlower.Data.Models.Roles", b =>
@@ -398,13 +390,12 @@ namespace ShopFlower.Data.Migrations
 
             modelBuilder.Entity("ShopFlower.Data.Models.User", b =>
                 {
-                    b.Navigation("Cart");
-
-                    b.Navigation("Orders");
-
                     b.Navigation("Roles");
+                });
 
-                    b.Navigation("WishList");
+            modelBuilder.Entity("ShopFlower.Data.Models.WishList", b =>
+                {
+                    b.Navigation("User");
                 });
 #pragma warning restore 612, 618
         }

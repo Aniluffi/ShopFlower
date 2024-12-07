@@ -38,5 +38,7 @@ namespace ShopFlower.Controllers
             var product = await _productService.GetProduct(id);
             return View(product);
         }
+
+
     }
 }

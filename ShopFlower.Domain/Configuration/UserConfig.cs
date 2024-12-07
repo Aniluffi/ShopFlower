@@ -12,32 +12,37 @@ namespace ShopFlower.Data.Configuration
 
 
             builder
-                .HasOne(s => s.Cart)
-                 .WithOne(c => c.User)
-                .OnDelete(DeleteBehavior.SetNull)
-              .HasForeignKey<Cart>(c => c.userId);
+                .HasOne(c => c.Cart)
+                .WithOne(c => c.User)
+                .HasForeignKey<User>(c => c.CartId)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
 
             builder.HasOne(j => j.WishList)
                 .WithOne(c => c.User)
-                .OnDelete(DeleteBehavior.SetNull)
-              .HasForeignKey<WishList>(c => c.userId);
+              .HasForeignKey<User>(c => c.WishListId)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
 
             builder.HasMany(s => s.Roles)
                 .WithOne(s => s.User)
-                .OnDelete(DeleteBehavior.SetNull)
-                .HasForeignKey(s => s.UserId);
+                .HasForeignKey(s => s.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
             builder.HasOne(c => c.Addresses)
                 .WithMany(c => c.Users)
-                .OnDelete(DeleteBehavior.SetNull)
-                .HasForeignKey(c => c.AddressesId);
+                .HasForeignKey(c => c.AddressesId)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
             builder.HasOne(j => j.Orders)
                 .WithOne(c => c.User)
-                .OnDelete(DeleteBehavior.SetNull)
-              .HasForeignKey<Order>(c => c.userId);
+              .HasForeignKey<User>(c => c.OrderId)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
         }
     }

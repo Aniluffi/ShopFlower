@@ -15,7 +15,7 @@ namespace ShopFlower.Data.Configuration
 
             builder.HasOne(c => c.User)
                 .WithOne(c => c.Orders)
-              .HasForeignKey<Order>(c => c.userId);
+              .HasForeignKey<User>(c => c.OrderId);
 
         }
     }

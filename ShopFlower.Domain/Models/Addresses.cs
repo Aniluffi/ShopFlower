@@ -14,6 +14,6 @@ namespace ShopFlower.Data.Models
         public string City {  get; set; } = string.Empty;
         public string State {  get; set; } = string.Empty;
         public int ZIP { get; set; }
-        public List<User> Users { get; set; } = new List<User>();
+        public List<User>? Users { get; set; }
     }
 }

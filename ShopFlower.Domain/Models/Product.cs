@@ -18,8 +18,8 @@ namespace ShopFlower.Data.Models
         public int Quantity { get; set; }
         public int Total { get; set; }
         public string? Img { get; set; }
-        public List<Cart>? Carts { get; set; } 
-        public List<WishList>? WishList { get; set; }
-        public List<Order>? Orders { get; set; }
+        public List<Cart>? Carts { get; set; } = new List<Cart>();
+        public List<WishList>? WishList { get; set; } = new List<WishList>();
+        public List<Order>? Orders { get; set; } = new List<Order>();
     }
 }

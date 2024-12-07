@@ -12,8 +12,7 @@ namespace ShopFlower.Data.Configuration
 
             builder.HasOne(s => s.User)
                 .WithOne(s => s.Cart)
-              .HasForeignKey<Cart>(c => c.userId);
-
+              .HasForeignKey<User>(c => c.CartId);
 
             builder.HasMany(s => s.Products)
                 .WithMany(s => s.Carts);
