@@ -1,6 +1,7 @@
 wwwroot\css\animate.css
 wwwroot\css\bootstrap.min.css
 wwwroot\css\confirm.css
+wwwroot\css\Folter.css
 wwwroot\css\font.awesome.css
 wwwroot\css\google_btn.css
 wwwroot\css\InfStyle.css
@@ -119,6 +120,7 @@ wwwroot\img\s-product\product.jpg
 wwwroot\img\s-product\product2.jpg
 wwwroot\img\s-product\product3.jpg
 wwwroot\js\bootstrap.min.js
+wwwroot\js\FilterScript.js
 wwwroot\js\isotope.pkgd.min.js
 wwwroot\js\jquery.countdown.js
 wwwroot\js\jquery.counterup.min.js

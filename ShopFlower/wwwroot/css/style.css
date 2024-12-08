@@ -5884,7 +5884,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .shop_toolbar_wrapper {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   border: 1px solid #ddd;
   padding: 8px 10px;
@@ -5904,7 +5903,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .shop_wrapper {
-  margin-bottom: 18px;
+    margin-bottom: 18px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    padding: 20px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .shop_wrapper {

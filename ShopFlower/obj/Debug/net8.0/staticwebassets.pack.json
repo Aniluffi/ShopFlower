@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\Folter.css",
+      "PackagePath": "staticwebassets\\css\\Folter.css"
+    },
+    {
       "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\InfStyle.css",
       "PackagePath": "staticwebassets\\css\\InfStyle.css"
     },
@@ -479,6 +483,10 @@
     {
       "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\img\\slider\\slider9.jpg",
       "PackagePath": "staticwebassets\\img\\slider\\slider9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
+      "PackagePath": "staticwebassets\\js\\FilterScript.js"
     },
     {
       "Id": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\bootstrap.min.js",

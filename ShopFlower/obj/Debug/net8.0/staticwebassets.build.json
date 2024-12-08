@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dJ5HYmUKyvF9XtuunTWZ3Z/h3uwfTNLY9ZDDAr1A2dg=",
+  "Hash": "TKggtICzT0KeZFcntmxn5xqXADJKVxLqo1RS++w9bbo=",
   "Source": "ShopFlower",
   "BasePath": "_content/ShopFlower",
   "Mode": "Default",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ze0iyjoyxi",
-      "Integrity": "m2DFLy5hD+kidsKm4q5rmw5liNXnLO+6+KkrJ/7mytc=",
+      "Fingerprint": "vhu5qg4qqe",
+      "Integrity": "XXw2hMK5KkrmFSl/Dc03j1iC0uSjRtCiLhwm0SkUUq4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\confirm.css"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\Folter.css",
+      "SourceId": "ShopFlower",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\",
+      "BasePath": "_content/ShopFlower",
+      "RelativePath": "css/Folter#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cal3zu871d",
+      "Integrity": "hAkEp5C04VF19U51rZ7TAqzY/Sc+9LrlYTJ65AHpbig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Folter.css"
     },
     {
       "Identity": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\font.awesome.css",
@@ -199,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o6qmz1xomo",
-      "Integrity": "8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=",
+      "Fingerprint": "v0ipi1l36g",
+      "Integrity": "fy03sGNHFW1jClojY6cXiqxSrAV5y6XsBSTARK25aC4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\no-products.css"
@@ -346,8 +367,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qdpu3g3w4q",
-      "Integrity": "AtGBODLBcX/gAaCWxlVh+qtfSCHaNomLrs1xZqgSJ4s=",
+      "Fingerprint": "50jemribky",
+      "Integrity": "S6bK18QLvV2gEdNXewrXlpv58Z4Eqjz1eVYTGSMj4W8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -2556,6 +2577,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
+      "SourceId": "ShopFlower",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\",
+      "BasePath": "_content/ShopFlower",
+      "RelativePath": "js/FilterScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7srlhdgwco",
+      "Integrity": "54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FilterScript.js"
     },
     {
       "Identity": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\isotope.pkgd.min.js",
@@ -7923,7 +7965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "176883"
+          "Value": "255230"
         },
         {
           "Name": "Content-Type",
@@ -7931,11 +7973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m2DFLy5hD+kidsKm4q5rmw5liNXnLO+6+KkrJ/7mytc=\""
+          "Value": "\"XXw2hMK5KkrmFSl/Dc03j1iC0uSjRtCiLhwm0SkUUq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 16:51:50 GMT"
+          "Value": "Sun, 08 Dec 2024 22:08:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7945,12 +7987,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-m2DFLy5hD+kidsKm4q5rmw5liNXnLO+6+KkrJ/7mytc="
+          "Value": "sha256-XXw2hMK5KkrmFSl/Dc03j1iC0uSjRtCiLhwm0SkUUq4="
         }
       ]
     },
     {
-      "Route": "css/bootstrap.min.ze0iyjoyxi.css",
+      "Route": "css/bootstrap.min.vhu5qg4qqe.css",
       "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7960,7 +8002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "176883"
+          "Value": "255230"
         },
         {
           "Name": "Content-Type",
@@ -7968,11 +8010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m2DFLy5hD+kidsKm4q5rmw5liNXnLO+6+KkrJ/7mytc=\""
+          "Value": "\"XXw2hMK5KkrmFSl/Dc03j1iC0uSjRtCiLhwm0SkUUq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 16:51:50 GMT"
+          "Value": "Sun, 08 Dec 2024 22:08:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7982,7 +8024,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ze0iyjoyxi"
+          "Value": "vhu5qg4qqe"
         },
         {
           "Name": "label",
@@ -7990,7 +8032,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m2DFLy5hD+kidsKm4q5rmw5liNXnLO+6+KkrJ/7mytc="
+          "Value": "sha256-XXw2hMK5KkrmFSl/Dc03j1iC0uSjRtCiLhwm0SkUUq4="
         }
       ]
     },
@@ -8073,6 +8115,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-y6oaE2y3WzmQFpoayGNsh1ffHUteV5uCwembojN53Ek="
+        }
+      ]
+    },
+    {
+      "Route": "css/Folter.cal3zu871d.css",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\Folter.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAkEp5C04VF19U51rZ7TAqzY/Sc+9LrlYTJ65AHpbig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cal3zu871d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Folter.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAkEp5C04VF19U51rZ7TAqzY/Sc+9LrlYTJ65AHpbig="
+        }
+      ]
+    },
+    {
+      "Route": "css/Folter.css",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\Folter.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAkEp5C04VF19U51rZ7TAqzY/Sc+9LrlYTJ65AHpbig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 15:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAkEp5C04VF19U51rZ7TAqzY/Sc+9LrlYTJ65AHpbig="
         }
       ]
     },
@@ -8497,7 +8621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5"
+          "Value": "429"
         },
         {
           "Name": "Content-Type",
@@ -8505,11 +8629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=\""
+          "Value": "\"fy03sGNHFW1jClojY6cXiqxSrAV5y6XsBSTARK25aC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 17:55:41 GMT"
+          "Value": "Sun, 08 Dec 2024 21:26:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8519,12 +8643,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU="
+          "Value": "sha256-fy03sGNHFW1jClojY6cXiqxSrAV5y6XsBSTARK25aC4="
         }
       ]
     },
     {
-      "Route": "css/no-products.o6qmz1xomo.css",
+      "Route": "css/no-products.v0ipi1l36g.css",
       "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\no-products.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8534,7 +8658,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5"
+          "Value": "429"
         },
         {
           "Name": "Content-Type",
@@ -8542,11 +8666,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=\""
+          "Value": "\"fy03sGNHFW1jClojY6cXiqxSrAV5y6XsBSTARK25aC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 17:55:41 GMT"
+          "Value": "Sun, 08 Dec 2024 21:26:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8556,7 +8680,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o6qmz1xomo"
+          "Value": "v0ipi1l36g"
         },
         {
           "Name": "label",
@@ -8564,7 +8688,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU="
+          "Value": "sha256-fy03sGNHFW1jClojY6cXiqxSrAV5y6XsBSTARK25aC4="
         }
       ]
     },
@@ -9061,6 +9185,51 @@
       ]
     },
     {
+      "Route": "css/style.50jemribky.css",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6bK18QLvV2gEdNXewrXlpv58Z4Eqjz1eVYTGSMj4W8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 22:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "50jemribky"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S6bK18QLvV2gEdNXewrXlpv58Z4Eqjz1eVYTGSMj4W8="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -9071,7 +9240,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225482"
+          "Value": "225600"
         },
         {
           "Name": "Content-Type",
@@ -9079,11 +9248,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AtGBODLBcX/gAaCWxlVh+qtfSCHaNomLrs1xZqgSJ4s=\""
+          "Value": "\"S6bK18QLvV2gEdNXewrXlpv58Z4Eqjz1eVYTGSMj4W8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 16:51:50 GMT"
+          "Value": "Sun, 08 Dec 2024 22:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9093,52 +9262,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AtGBODLBcX/gAaCWxlVh+qtfSCHaNomLrs1xZqgSJ4s="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.qdpu3g3w4q.css",
-      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "225482"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AtGBODLBcX/gAaCWxlVh+qtfSCHaNomLrs1xZqgSJ4s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 16:51:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qdpu3g3w4q"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AtGBODLBcX/gAaCWxlVh+qtfSCHaNomLrs1xZqgSJ4s="
+          "Value": "sha256-S6bK18QLvV2gEdNXewrXlpv58Z4Eqjz1eVYTGSMj4W8="
         }
       ]
     },
@@ -17749,6 +17873,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-GsUQNpvJRN4ezYs42VQ4ET1Q19jS0nEn/j0UJ/R0Ric="
+        }
+      ]
+    },
+    {
+      "Route": "js/FilterScript.7srlhdgwco.js",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7srlhdgwco"
+        },
+        {
+          "Name": "label",
+          "Value": "js/FilterScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8="
+        }
+      ]
+    },
+    {
+      "Route": "js/FilterScript.js",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8="
         }
       ]
     },

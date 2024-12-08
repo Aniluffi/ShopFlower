@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShopFlower.Data;
+using ShopFlower.Data.Models;
 using ShopFlower.IService.ServiceProduct;
 using ShopFlower.Models;
 namespace ShopFlower.Controllers
@@ -22,11 +23,11 @@ namespace ShopFlower.Controllers
             {
                 ListProduct products = new ListProduct
                 {
-                    Products = await _productService.GetProductShort(1, 0)
+                    Products = await _productService.GetProductShort(10, 0)
                 };
                 return View(products);
             }
-            catch(Exception)
+            catch (Exception)
             {
                 return View(new ListProduct());
             }
@@ -39,6 +40,25 @@ namespace ShopFlower.Controllers
             return View(product);
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Filter([FromBody]ProductFilter filter)
+        {
+            try
+            {
+                if (filter == null)
+                    return Json(new { success = false, message = "Фильтр не может быть пустым" });
 
+                var productFilter = await _productService.GetProductByFilter(filter);
+
+                if (productFilter == null || productFilter.Count == 0)
+                    return Json(new { success = false, message = "Нет товаров по данному фильтру" });
+
+                return Json(new { success = true, products = productFilter });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
     }
 }

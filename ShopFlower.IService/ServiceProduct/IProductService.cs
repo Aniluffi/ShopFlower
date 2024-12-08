@@ -6,5 +6,6 @@ namespace ShopFlower.IService.ServiceProduct
     {
         Task<Product> GetProduct(int productId);
         Task<List<ShortProduct>> GetProductShort(int take,int skip);
+        Task<List<ShortProduct>> GetProductByFilter(ProductFilter filter);
     }
 }

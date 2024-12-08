@@ -26,6 +26,21 @@ namespace ShopFlower.Service
             return product;
         }
 
+        public async Task<List<ShortProduct>> GetProductByFilter(ProductFilter filter)
+        {
+            await using var db = new ApplicationContext(_DBOptions);
+
+            var productFilter = await db.Products.Select(c => ShortProduct.ConvertToShortProduct(c))
+              .ToListAsync();
+
+            if (filter == null || productFilter == null) throw new Exception("Пусто");
+
+            if (filter.PriceMax != 2000 || filter.PriceMin != 0)
+                productFilter = productFilter.Where(f => f.Price < filter.PriceMax && f.Price > filter.PriceMin).ToList();
+
+            return productFilter;
+        }
+
         public async Task<List<ShortProduct>> GetProductShort(int take, int skip)
         {
             await using var db = new ApplicationContext(_DBOptions);
