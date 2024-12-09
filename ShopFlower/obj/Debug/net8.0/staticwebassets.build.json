@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TKggtICzT0KeZFcntmxn5xqXADJKVxLqo1RS++w9bbo=",
+  "Hash": "4z/TukHU7S4ngxPzoBx/XfyvjltKeVxsbvQRMbq2/WA=",
   "Source": "ShopFlower",
   "BasePath": "_content/ShopFlower",
   "Mode": "Default",
@@ -2593,8 +2593,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7srlhdgwco",
-      "Integrity": "54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=",
+      "Fingerprint": "pdulqpo1bm",
+      "Integrity": "81RxLRP2DLjFfWIWUZjbyCm5Z5Cjnt8okYS3WejeVZw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\FilterScript.js"
@@ -17877,51 +17877,6 @@
       ]
     },
     {
-      "Route": "js/FilterScript.7srlhdgwco.js",
-      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4417"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 21:50:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7srlhdgwco"
-        },
-        {
-          "Name": "label",
-          "Value": "js/FilterScript.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8="
-        }
-      ]
-    },
-    {
       "Route": "js/FilterScript.js",
       "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
       "Selectors": [],
@@ -17932,7 +17887,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4417"
+          "Value": "4390"
         },
         {
           "Name": "Content-Type",
@@ -17940,11 +17895,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8=\""
+          "Value": "\"81RxLRP2DLjFfWIWUZjbyCm5Z5Cjnt8okYS3WejeVZw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 21:50:05 GMT"
+          "Value": "Sun, 08 Dec 2024 22:40:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17954,7 +17909,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-54Ryv+k2fQMcCu7DdGI1jW6KaPRx8rH/lA6DIUZKRF8="
+          "Value": "sha256-81RxLRP2DLjFfWIWUZjbyCm5Z5Cjnt8okYS3WejeVZw="
+        }
+      ]
+    },
+    {
+      "Route": "js/FilterScript.pdulqpo1bm.js",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\ShopFlower\\ShopFlower\\ShopFlower\\wwwroot\\js\\FilterScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81RxLRP2DLjFfWIWUZjbyCm5Z5Cjnt8okYS3WejeVZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 22:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdulqpo1bm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/FilterScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81RxLRP2DLjFfWIWUZjbyCm5Z5Cjnt8okYS3WejeVZw="
         }
       ]
     },

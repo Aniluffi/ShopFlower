@@ -24,7 +24,7 @@ namespace ShopFlower.Service
                 await using var dB = new ApplicationContext(this._DBOptions);
 
                 // Получение продукта
-                var product = await dB.Products.FirstOrDefaultAsync(c => c.Id == productId);
+                var product = await dB.Products.Include(c => c.Carts).FirstOrDefaultAsync(c => c.Id == productId);
                 if (product == null)
                 {
                     list.Add(new Exception("Нет такого товара"));
@@ -46,7 +46,7 @@ namespace ShopFlower.Service
                 //}
 
                 // Добавление продукта в корзину
-                var d = dB.Users.Include(c => c.Id == userId).FirstOrDefault();
+                var d = dB.Users.Include(c => c.Cart.Products).FirstOrDefault(c => c.Id == userId);
                 d.Cart.Products.Add(product);
                 await dB.SaveChangesAsync();
             }
@@ -65,7 +65,6 @@ namespace ShopFlower.Service
 
             return list;
         }
-
         public Task<IEnumerable<Exception>> AddProductInOrders(int userId, int productId)
         {
             throw new NotImplementedException();

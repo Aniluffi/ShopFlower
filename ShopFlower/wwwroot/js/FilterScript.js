@@ -74,7 +74,7 @@ function dataDisplay(data) {
         // Перебираем товары и добавляем их на страницу
         data.products.forEach((product) => {
             const productHTML = `
-                <div class="col-lg-3 col-md-4 col-12" onclick="window.location.href = '@Url.Action("ProductDetails","Shop",new {id = ${product.id}})'">
+                <div class="col-lg-3 col-md-4 col-12" onclick="window.location.href = '/Shop/ProductDetails/${product.id}'">
                     <article class="single_product">
                         <figure>
                             <div class="product_thumb">
